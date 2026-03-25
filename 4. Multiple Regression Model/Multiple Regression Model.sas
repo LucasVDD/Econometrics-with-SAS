@@ -1,5 +1,5 @@
 data oecd;
-infile "C:/Users/LucVa/Programming/SAS/4. Consumption Growth Regression/Japan.txt" dsd missover dlm="09"X;
+infile "C:/Programming/Econometrics-with-SAS/4. Consumption Growth Regression/Japan.txt" dsd missover dlm="09"X;
 input cons gov hours inc ln_y_c r;
 ods graphics off;
 run;

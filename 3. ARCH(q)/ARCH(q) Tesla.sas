@@ -3,7 +3,7 @@ options linesize=78;
 * read in the data *;
 
 data tesla;
-infile 'C:/Users/LucVa/Programming/SAS/3. ARCH(q)/TESLA.txt';
+infile 'C:/Programming/Econometrics-with-SAS/3. ARCH(q)/TESLA.txt';
 input price;
 return = dif(log(price));
 t=_n_;

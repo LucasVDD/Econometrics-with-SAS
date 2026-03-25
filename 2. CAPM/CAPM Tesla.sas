@@ -3,7 +3,7 @@ options linesize=78;
 * read in the data *;
 
 data capm;
-infile 'C:/Users/LucVa/Programming/SAS/2. CAPM/SP500TBTESLA.txt' delimiter='09'x; 
+infile 'C:/Programming/Econometrics-with-SAS/2. CAPM/SP500TBTESLA.txt' delimiter='09'x; 
 input tsl sp tb;
 
 * compute returns on Tesla *;

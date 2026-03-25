@@ -1,7 +1,7 @@
  options label center nodate nonumber linesize=78;
 
 data med;
-infile 'C:/Users/LucVa/Programming/SAS/7. Fixed Effects and Random Effects Estimators/medical.dat';
+infile 'C:/Programming/Econometrics-with-SAS/7. Fixed Effects and Random Effects Estimators/medical.dat';
 input id year medexp inc age insur;
 run;
 

@@ -3,7 +3,7 @@ options linesize=78;
 * read in the data *;
 
 data tesla;
-infile 'C:/Users/LucVa/Programming/SAS/1. AR(p)/TESLA.txt';
+infile 'C:/Programming/Econometrics-with-SAS/1. AR(p)/TESLA.txt';
 input price;
 return = dif(log(price));
 t=_n_;

@@ -1,7 +1,7 @@
 options center label nodate nonumber linesize=78;
 
 data mortgage;
-infile 'C:/Users/LucVa/Programming/SAS/5. Probit Regression Fixed vs Adjustable Mortgages/sirmans.txt';
+infile 'C:/Programming/Econometrics-with-SAS/5. Probit Regression Fixed vs Adjustable Mortgages/sirmans.txt';
 input adjust fixrate margin yield maturity points networth;
 
 proc means data=mortgage;
