@@ -1,21 +1,20 @@
 # SAS Repository
-
-Welcome to my SAS repository! This will be the repository where I showcase all of my projects done in SAS. The current projects were assignments from my Econometrics classes at York University (Econ 4140 - Financial Econometrics and Econ 4220 - Topics in Econometrics).
+Welcome to my SAS repository! This will be the repository where I showcase all of my projects done in SAS.
 
 
 #### Table of Contents:
-Econ 4140 - Financial Econometrics:
 
-1. AR(p)
-2. CAPM
-3. ARCH(q)
-
-Econ 4220 - Topics in Econometrics:
-
-4. Consumption Growth Regression
-5. Probit Regression: Fixed vs Adjustable Mortgages
-6. Probit and Logit Marginal Effects
-7. Fixed Effects and Random Effects Estimators
-
+01. Multiple Regression Model
+02. CAPM
+03. Fixed Effects and Random Effects Estimators
+04. Probit Regression: Fixed vs Adjustable Mortgages
+05. Probit and Logit Marginal Effects
+06. AR(p)
+07. ARIMA
+08. Unit Roots
+09. ARCH(q)
+10. GARCH
+11. VAR
+12. VEC
 
 
